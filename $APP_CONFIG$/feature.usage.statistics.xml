@@ -27,7 +27,7 @@
     <feature id="db.console.execute" count="1" last-shown="0" last-used="1394701418992" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="7" last-shown="0" last-used="1408558461935" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="55" last-shown="0" last-used="1408906044159" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="56" last-shown="0" last-used="1408906945402" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="1408906317786" last-used="0" shown-count="2" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.move.moveInner" count="0" last-shown="0" last-used="0" shown-count="0" />
