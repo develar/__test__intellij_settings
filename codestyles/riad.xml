@@ -1,7 +1,7 @@
 <code_scheme name="riad">
-  <CoffeeScriptCodeStyleSettings>
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-  </CoffeeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="CoffeeScript">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   </codeStyleSettings>
