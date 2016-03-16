@@ -1,0 +1,14 @@
+<code_scheme name="riad copy">
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Gherkin">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="10" />
+  </codeStyleSettings>
+</code_scheme>
