@@ -1,0 +1,39 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.9 (/usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="jar:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/setuptools-12.0.5-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip-6.0.7-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/setuptools-12.0.5-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-6.0.7-py2.7.egg" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/out/classes/production/python-helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Preferences/IJ/system/python_stubs/-770735130" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/setuptools-12.0.5-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip-6.0.7-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/setuptools-12.0.5-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-6.0.7-py2.7.egg" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/out/classes/production/python-helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Preferences/IJ/system/python_stubs/-770735130" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
